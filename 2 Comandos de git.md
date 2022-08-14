@@ -87,4 +87,4 @@ Ya tenemos todo configurado, es hora de crear nuestro repositorio. Para crear el
 git init "Nombre del repositorio"
 ```
 
-## **snapshot**
+## **Trabajo con Git**
